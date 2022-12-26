@@ -1,6 +1,7 @@
 # Rule-Based Classification
 
 ![1_Br-FBf8RRbQWaWh6VegByw](https://user-images.githubusercontent.com/83352965/209561236-a8532c85-d711-4d15-9350-0fbf7dc7a4eb.jpeg)
+Streamlit app -> https://suleymansennn-rule-based-classificatio-persona-streamlit-o64kvb.streamlit.app/
 
 A game company, by using some features of its customers, wants to create new level-based customer definitions[Persona] and new segments according to these new customer definitions. With these new segments, they also want to calculate and guess how much they can earn on average from these new customers.
 
