@@ -43,8 +43,9 @@ def show_result(new_user):
     st.success(f"New customer segment = {segment}")
 
 st.title("Customer Level Based Segmentation")
-img = Image.open("week3/customer.jpeg")
+img = "https://raw.githubusercontent.com/suleymansennn/DS-Bootcamp/main/week3/customer.jpeg"
 st.image(img)
+
 
 age = st.number_input("Enter your age", step=1)
 gender = st.radio(label="Select your gender", options=("Male", "Female"))
